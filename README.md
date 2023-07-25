@@ -24,3 +24,7 @@
         image2 = image2.resize(resolution)
 
     This way it decreases to 23 seconds of processing and a resulting final image with 8MB
+
+# Example of use:
+
+![image](https://github.com/gabflag/before_after_gif_python/assets/95552879/9eecb243-1dd9-47c3-b15b-c86a49df50c0)
