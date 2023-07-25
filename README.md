@@ -9,6 +9,8 @@
 
 This is a Python script that generates a GIF for you. Just insert the "before" and "after" files, which must be in jpg format and named "after.jpg" and "before.jpg," respectively.
 For the program to work excellently, try to use files with the same dimensions.
+I created a code to reduce the size of the image, I did this in order to optimize the code. Improved.
+
 
 # About the tests:
 
